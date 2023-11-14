@@ -7,7 +7,7 @@
 - Contador de visitas persistente utilizando `localStorage`.
 - Botón de "Reestablecer Contador" para reiniciar el contador a cero.
 
-## Uso (Instruciones)
+## Uso (Instrucciones)
 
 1. Abre el archivo `index.html` en tu navegador.
 2. Cada vez que se recarga la página debe añadir una visita más
